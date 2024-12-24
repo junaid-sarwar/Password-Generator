@@ -1,0 +1,1 @@
+A sleek password generator with a glass-effect UI. Enter a length, click "Generate," and get a secure password with letters, numbers, and symbols. Built with HTML, CSS, and JavaScript. Responsive design ensures a smooth experience on any device.
